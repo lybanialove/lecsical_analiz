@@ -1,0 +1,1 @@
+# lecsical_analiz
